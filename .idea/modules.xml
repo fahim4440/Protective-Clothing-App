@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/protective_clothing/protective_clothing.iml" filepath="$PROJECT_DIR$/protective_clothing/protective_clothing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/protective_clothing/android/protective_clothing_android.iml" filepath="$PROJECT_DIR$/protective_clothing/android/protective_clothing_android.iml" />
+    </modules>
+  </component>
+</project>

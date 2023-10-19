@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "668683233484",
+    "firebase_url": "https://protective-garment-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "protective-garment",
+    "storage_bucket": "protective-garment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668683233484:android:d909864cc171a6d9bb7a69",
+        "android_client_info": {
+          "package_name": "com.af.protective_clothing.protective_clothing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668683233484-43b1ujv3jndp156kl3i14g2iirudgch2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmEAiEI2UgHy1yMUBUIcbv1Npjcz4hMkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668683233484-43b1ujv3jndp156kl3i14g2iirudgch2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
