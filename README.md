@@ -1,1 +1,0 @@
-# Protective-Clothing-App
